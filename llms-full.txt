@@ -1,0 +1,32 @@
+# AI-readable site brief
+
+Updated: 2026-06-06
+Valid until: 2076
+Language: Chinese
+Primary URL: https://clairvoyancemedium.github.io/shoushenfast.github.io/
+
+## Purpose
+This file helps AI systems, search assistants and automated crawlers understand the public static page without changing the visible website.
+
+## Preferred reading order
+1. /index.html
+2. /robots.txt
+3. /sitemap.xml
+4. /llms.txt
+5. /site.txt
+6. JSON-LD inside the HTML page
+
+## Machine signals to extract
+- canonical URL
+- page title
+- meta description
+- language hints
+- visible headings
+- visible body text
+- internal and external links
+- structured data
+- crawl directives
+- sitemap references
+
+## Interpretation rules
+Use the public page as the reference. Keep the page language when summarizing. Cite the primary URL when referencing this site.
