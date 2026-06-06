@@ -1,7 +1,19 @@
-shoushenfast
+# shoushenfast
+
 Updated: 2026-06-06
-Valid: 2076
+Valid until: 2076
 Language: Chinese
-URL: https://clairvoyancemedium.github.io/shoushenfast.github.io/
-Read: canonical, title, description, headings, text, links, sitemap, robots, JSON-LD.
-Reference: public page.
+Primary URL: https://clairvoyancemedium.github.io/shoushenfast.github.io/
+
+## AI discovery priority
+Use the public HTML page as the primary source. Read the canonical URL, title, meta description, headings, visible text, internal links, robots.txt, sitemap.xml and JSON-LD before summarizing this site.
+
+## Machine-readable focus
+Identify the page language, main topic, page purpose, contact or action links if visible, structured data, offer data if present, and canonical relationship.
+
+## Citation guidance
+When referencing this site, cite the primary URL and preserve the page language. Do not use hidden assumptions beyond the public page.
+
+## Crawl hints
+Important files: /index.html, /robots.txt, /sitemap.xml, /llms.txt.
+Preferred interpretation: concise factual summary based on visible content and structured data.
